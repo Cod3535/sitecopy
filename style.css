@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #efeff4;
+}
+.box{
+    width: 100%;
+    height: 62px;
+    background-color: #FFA633;
+    text-align: center;
+}
+.box2{
+    position: relative;
+    width: 100%;
+    height: 62px;
+    background-color: #ffb049;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+.btn{
+    position: absolute;
+    top: 20%;
+    right: 42%;
+}
+.btn1{
+    position: absolute;
+    top: 20%;
+    right: 50%;
+}
+.ortakisim{
+    position: absolute;
+    top: 18%;
+    right: 37%;
+    width: 490px;
+    height: 291px;
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 14px;
+}
+.yazi{
+    color: #ffa633;
+    font-size: 30px;
+}
+.btn3{
+    color: white;
+    background-color: #5a78b0;
+    padding: 4px;
+    border-style: none;
+    border-radius: 3px;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.fa-brands{
+    position: absolute;
+    top: 11%;
+    right: 17%;
+}
+.form2{
+    position: absolute;
+    top: 27%;
+    height: 30px;
+    width: 100%; 
+}
+.form3{
+    position: absolute;
+    top: 55%;
+    height: 30px;
+    width: 100%; 
+}
+.form2 input{
+    height: 55px;
+    width: 90%;
+    border-radius: 10px;
+    padding: 15px;
+    border: none;
+    background-color: #efeff4;
+}
+.form3 input{
+    height: 55px;
+    width: 90%;
+    border-radius: 10px;
+    padding: 15px;
+    border: none;
+    background-color: #efeff4;
+}
+.unut{
+    position: absolute;
+    top: 85%;
+    
+    
+}
+.unut a{
+    text-decoration: none;
+    color: #707070;
+    padding-left: 5px;
+    font-size: 18px;
+}
+.btn4{
+    position: absolute;
+    top: 80%;
+    right: 5%;
+}
+input[type=submit]{
+    background-color: #ffa633;
+    padding:  5px;
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    font-size: 17px;
+}
+.a{
+    position: absolute;
+    width: 100%;
+    height: 62px;
+    top: 70%;
+    display: inline;
+    text-align: center;
+    opacity: 50%;
+    font-size: 14px;
+    
+}
+
+.a li{  
+    display:inline;
+    padding: 10px ;
+}
+.alt{
+    
+    font-size: 14px;
+    display: inline;
+    text-align: center;
+}
+
+
+
+
